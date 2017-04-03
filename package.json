@@ -1,0 +1,21 @@
+{
+  "name": "dboxsync",
+  "version": "1.0.0",
+  "description": "This module permits to synchronize files in dropbox account folder and a mongodb ",
+  "main": "server.js",
+  "dependencies": {
+    "dropbox": "^2.5.2",
+    "mongo": "^0.1.0",
+    "mongodb": "^2.2.24"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "dropboxsync"
+  ],
+  "author": "MohamedBOUZID",
+  "license": "ISC"
+}
